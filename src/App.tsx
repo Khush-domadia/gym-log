@@ -39,35 +39,35 @@ function App() {
   const muscleGroups = [
     {
       name: "Chest",
-      image: `${import.meta.env.BASE_URL}muscle-images/chest.png`,
+      image: "/gym-log/muscle-images/chest.png",
     },
     {
       name: "Back",
-      image: `${import.meta.env.BASE_URL}muscle-images/back.png`,
+      image: "/gym-log/muscle-images/back.png",
     },
     {
       name: "Shoulders",
-      image: `${import.meta.env.BASE_URL}muscle-images/shoulders.png`,
+      image: "/gym-log/muscle-images/shoulders.png",
     },
     {
       name: "Biceps",
-      image: `${import.meta.env.BASE_URL}muscle-images/biceps.png`,
+      image: "/gym-log/muscle-images/biceps.png",
     },
     {
       name: "Triceps",
-      image: `${import.meta.env.BASE_URL}muscle-images/triceps.png`,
+      image: "/gym-log/muscle-images/triceps.png",
     },
     {
       name: "Legs",
-      image: `${import.meta.env.BASE_URL}muscle-images/legs.png`,
+      image: "/gym-log/muscle-images/legs.png",
     },
     {
       name: "Abs/Core",
-      image: `${import.meta.env.BASE_URL}muscle-images/abs-core.png`,
+      image: "/gym-log/muscle-images/abs-core.png",
     },
     {
       name: "Cardio",
-      image: `${import.meta.env.BASE_URL}muscle-images/cardio.png`,
+      image: "/gym-log/muscle-images/cardio.png",
     },
   ];
 
